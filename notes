@@ -1,5 +1,32 @@
 Using this as notes for my project//
 
-1 Create an ERD - Finish / Polish
-2 User Stories
+1 Create an ERD - Finish / Polish - Done
+2 User Stories - In progess
+Customer User Stories
 
+US-1: As a customer, I want to create an account so that I can access the system.
+US-2: As a customer, I want to log in so that I can use my account.
+US-3: As a customer, I want to reset my password if I forget it.
+US-4: As a customer, I want to view and edit my profile.
+US-5: As a visitor, I want to browse the catalogue without an account.
+US-6: As a customer, I want to rent products so that I can use them temporarily.
+US-7: As a customer, I want to view my rental history.
+US-8: As a customer, I want to filter and sort products.
+
+
+Employee User Stories
+
+US-9: As an employee, I want to approve or reject loan requests.
+US-10: As an employee, I want to view all active loans.
+US-11: As an employee, I want to check inventory levels.
+US-12: As an employee, I want to add/update/remove catalogue items.
+US-13: As an employee, I want to manage user accounts (reset passwords, assist users).
+US-14: As an employee, I want to filter hardware by category.
+US-15: As an employee, I want to receive notifications for overdue loans.
+US-16: As an employee, I want to view basic rental statistics.
+
+Admin User Stories
+US-18: As an admin, I want to manage permissions for roles and employees so that I can control what each role and individual user can do.
+US-19: As an admin, I want to create, update, or delete employees so that I can control who has access to the system.
+US-20: As an admin, I want to view all rentals, inventory, and users in a dashboard so that I can monitor system activity.
+US-21: As an admin, I want to delete hardware items if necessary so that the inventory stays accurate.
