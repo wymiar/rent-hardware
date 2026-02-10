@@ -5,7 +5,6 @@ Using this as notes for my project//
 Customer User Stories
 
 US-1: As a customer, I want to create an account so that I can access the system.
-US-2: As a customer, I want to log in so that I can use my account.
 US-3: As a customer, I want to reset my password if I forget it.
 US-4: As a customer, I want to view and edit my profile.
 US-5: As a visitor, I want to browse the catalogue without an account.
